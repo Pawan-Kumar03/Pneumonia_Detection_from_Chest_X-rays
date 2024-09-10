@@ -11,3 +11,4 @@ This Streamlit app allows users to upload chest X-ray images and detect whether 
 ## Deploying
 
 This app is deployed on [Streamlit Sharing](https://streamlit.io/sharing).
+# Pneumonia_Detection_from_Chest_X-rays
