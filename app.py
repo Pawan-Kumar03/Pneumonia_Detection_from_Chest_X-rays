@@ -4,7 +4,7 @@ from PIL import Image
 import numpy as np
 
 # Load the pre-trained model
-model = load_model('modelvgg16.h5')
+model = load_model('model/modelvgg16.h5')
 
 # Streamlit web app
 st.title("Pneumonia Detection from Chest X-rays")
